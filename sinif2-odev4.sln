@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sinif2-odev4", "sinif2-odev4\sinif2-odev4.csproj", "{04FBF876-A2E3-4E3B-A9B5-6B01DD1D20A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04FBF876-A2E3-4E3B-A9B5-6B01DD1D20A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04FBF876-A2E3-4E3B-A9B5-6B01DD1D20A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04FBF876-A2E3-4E3B-A9B5-6B01DD1D20A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04FBF876-A2E3-4E3B-A9B5-6B01DD1D20A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A52AEE4F-D504-4ED3-AAEA-A6A0B2DD0B96}
+	EndGlobalSection
+EndGlobal
